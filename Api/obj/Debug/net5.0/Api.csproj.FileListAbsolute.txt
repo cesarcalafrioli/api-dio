@@ -1,0 +1,7 @@
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.csproj.AssemblyReference.cache
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+F:\CESARCALAFRIOLI_WORKSPACE\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
